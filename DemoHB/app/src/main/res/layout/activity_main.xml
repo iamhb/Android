@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_margin="24dp"
+    android:baselineAligned="false"
+    android:orientation="vertical"
+
+    tools:context="com.example.hari.demohb.MainActivity">
+
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" >
+
+            <EditText
+                android:id="@+id/name"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="@android:dimen/app_icon_size"
+                android:hint="@string/name" />
+
+            <EditText
+                android:id="@+id/regno"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="@android:dimen/app_icon_size"
+                android:hint="@string/regno" />
+
+            <EditText
+                android:id="@+id/phno"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="@android:dimen/app_icon_size"
+                android:hint="@string/phoneno" />
+
+            <Button
+                android:id="@+id/savebtn"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:onClick="onClick"
+                android:text="upload to DB"
+                android:visibility="visible" />
+
+        </LinearLayout>
+    </ScrollView>
+
+
+</LinearLayout>

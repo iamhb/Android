@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "992479025710",
+    "firebase_url": "https://whatsthatday2.firebaseio.com",
+    "project_id": "whatsthatday2",
+    "storage_bucket": "whatsthatday2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:992479025710:android:1ef4287dacf6f3f1",
+        "android_client_info": {
+          "package_name": "dummymain.com.whatsthatday"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "992479025710-i91irpb2pohdsmrbmqrmu4im83p02jnn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "dummymain.com.whatsthatday",
+            "certificate_hash": "caf1662d436475dd634aa19dee469dafb22af54d"
+          }
+        },
+        {
+          "client_id": "992479025710-s0jno7sl7918eenoauubq61quf6vkasj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2rU0bTy5w6O5PqXzonmLmxbrre2u4aU8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "992479025710-s0jno7sl7918eenoauubq61quf6vkasj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

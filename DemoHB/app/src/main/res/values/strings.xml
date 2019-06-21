@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">DemoHB</string>
+    <string name="click">Click</string>
+    <string name="id">ID</string>
+    <string name="phoneno">Phoneno</string>
+    <string name="regno">Regno</string>
+    <string name="name">Name</string>
+</resources>

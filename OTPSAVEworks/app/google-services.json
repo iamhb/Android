@@ -1,0 +1,107 @@
+{
+  "project_info": {
+    "project_number": "1094911719695",
+    "firebase_url": "https://otpworks.firebaseio.com",
+    "project_id": "otpworks",
+    "storage_bucket": "otpworks.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1094911719695:android:6e65fc3b24de149f",
+        "android_client_info": {
+          "package_name": "dummymain.com.otpsaveworks"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1094911719695-0g65rg4modcm003jm3n9i67e43hg6fgj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "dummymain.com.otpsaveworks",
+            "certificate_hash": "caf1662d436475dd634aa19dee469dafb22af54d"
+          }
+        },
+        {
+          "client_id": "1094911719695-ad9k64e880d1ngecb223fcl4i5a0951b.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "1094911719695-ad9k64e880d1ngecb223fcl4i5a0951b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBH-Y7LcevwDfYgrUSIQpjGt6BYaylEByg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1094911719695-ad9k64e880d1ngecb223fcl4i5a0951b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1094911719695:android:59cf4bc476cc794d",
+        "android_client_info": {
+          "package_name": "in.memeist.otpworks"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1094911719695-a838opuqgodkkke72g9drdre57rdsi4r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "in.memeist.otpworks",
+            "certificate_hash": "d69c7b37b30dbb3e1d1d9c827916569dfbed35c5"
+          }
+        },
+        {
+          "client_id": "1094911719695-ad9k64e880d1ngecb223fcl4i5a0951b.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "1094911719695-ad9k64e880d1ngecb223fcl4i5a0951b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBH-Y7LcevwDfYgrUSIQpjGt6BYaylEByg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1094911719695-ad9k64e880d1ngecb223fcl4i5a0951b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
